@@ -8,7 +8,7 @@
 
 ![Project](https://user-images.githubusercontent.com/90493072/149513658-76bdddf1-9a78-4a5b-aabd-7129efa54bb0.jpg)
 
-Deep Multilayer Perceptron
+## Deep Multilayer Perceptron
 ![DMLP](https://user-images.githubusercontent.com/90493072/149551589-2a1e46d0-bc72-469a-9a3e-ea526711cd28.jpg)
 
 
