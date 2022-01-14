@@ -11,6 +11,9 @@
 ## Deep Multilayer Perceptron
 ![DMLP](https://user-images.githubusercontent.com/90493072/149551589-2a1e46d0-bc72-469a-9a3e-ea526711cd28.jpg)
 
+## Basic Multilayer Perceptron
+![MLP](https://user-images.githubusercontent.com/90493072/149554628-5033a6f9-28fc-4ec5-9070-62ed56350182.jpg)
+
 
 ![IMG_1076](https://user-images.githubusercontent.com/90493072/149494212-9e39a4c5-aff6-4a79-bc40-5b98838cf608.jpg)
 
