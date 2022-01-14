@@ -3,7 +3,7 @@
 ![97577858-3d-rendering-humanoid-robot-analyze-stock-market - Copy](https://user-images.githubusercontent.com/90493072/149369666-ef11148d-1ef5-45d4-b4d0-9a95c1e63d13.jpg)
 
 
-
+https://github.com/sboonpan/DMLP_SET50/issues/2#issue-1103360959
 
 
 
