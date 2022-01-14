@@ -18,10 +18,11 @@
 
 ![MLP](https://user-images.githubusercontent.com/90493072/149554628-5033a6f9-28fc-4ec5-9070-62ed56350182.jpg)
 
-
 ![IMG_1077](https://user-images.githubusercontent.com/90493072/149495479-cc5b0e20-a0c6-4341-a8d4-05153dab1aec.jpg)
 
+![MLP](https://user-images.githubusercontent.com/90493072/149554628-5033a6f9-28fc-4ec5-9070-62ed56350182.jpg)
 
+## Gradian Descent Equation
 ![IMG_1075](https://user-images.githubusercontent.com/90493072/149503312-ff387680-d002-486c-b198-2ac58d640c73.jpg)
 
 ![IMG_1078](https://user-images.githubusercontent.com/90493072/149504684-dd3ed0ef-e6d5-44a6-b086-c262a5fd692f.jpg)
