@@ -14,8 +14,9 @@
 ## Basic Multilayer Perceptron
 ![MLP](https://user-images.githubusercontent.com/90493072/149554628-5033a6f9-28fc-4ec5-9070-62ed56350182.jpg)
 
-
 ![IMG_1076](https://user-images.githubusercontent.com/90493072/149494212-9e39a4c5-aff6-4a79-bc40-5b98838cf608.jpg)
+
+![MLP](https://user-images.githubusercontent.com/90493072/149554628-5033a6f9-28fc-4ec5-9070-62ed56350182.jpg)
 
 
 ![IMG_1077](https://user-images.githubusercontent.com/90493072/149495479-cc5b0e20-a0c6-4341-a8d4-05153dab1aec.jpg)
