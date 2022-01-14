@@ -99,11 +99,6 @@
 ![IMG_1106](https://user-images.githubusercontent.com/90493072/149510625-c27ae256-4fdb-4a4e-b561-c94cb3916455.jpg)
 
 
-
-![IMG_1106](https://user-images.githubusercontent.com/90493072/149510625-c27ae256-4fdb-4a4e-b561-c94cb3916455.jpg)
-
-
-
 ![IMG_1107](https://user-images.githubusercontent.com/90493072/149510934-25db5007-61f8-4189-85e1-aefcbc5da1fa.jpg)
 
 
