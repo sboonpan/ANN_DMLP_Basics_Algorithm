@@ -22,7 +22,7 @@
 
 ![MLP](https://user-images.githubusercontent.com/90493072/149554628-5033a6f9-28fc-4ec5-9070-62ed56350182.jpg)
 
-## Gradian Descent Equation
+## Gradien Descent Equation
 ![IMG_1075](https://user-images.githubusercontent.com/90493072/149503312-ff387680-d002-486c-b198-2ac58d640c73.jpg)
 
 ![IMG_1078](https://user-images.githubusercontent.com/90493072/149504684-dd3ed0ef-e6d5-44a6-b086-c262a5fd692f.jpg)
@@ -108,27 +108,6 @@
 
 
 ![IMG_1108](https://user-images.githubusercontent.com/90493072/149510983-0067a594-db64-4d02-b339-44bc9e51ea5b.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
