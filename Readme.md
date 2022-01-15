@@ -2,15 +2,14 @@
 
 ![formula](https://render.githubusercontent.com/render/math?math=\large\f(x)=sin(x)  )
 
-$$\large\f(x) = sin(x)$$
 
 Display math:
 
 ```math
 e^{i\pi} + 1 = 0
 ```
-
-and line math $`a^2 + b^2 = c^2`$.
+Inline
+$`a^2 + b^2 = c^2`$.
 
 Display math:
 
