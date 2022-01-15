@@ -1,5 +1,24 @@
 ### This is my Ph.D. mini project by using deep multilayer perceptron(DMLP). The project will be starting from stocks on SET50.
-          ![formula](https://render.githubusercontent.com/render/math?math= \large\f(x)=sin(x)  )
+
+![formula](https://render.githubusercontent.com/render/math?math=\large\f(x)=sin(x)  )
+
+$$\large\f(x) = sin(x)$$
+
+Display math:
+
+```math
+e^{i\pi} + 1 = 0
+```
+
+and line math $`a^2 + b^2 = c^2`$.
+
+Display math:
+
+```math
+e^{i\pi} + 1 = 0
+```
+
+and line math $`a^2 + b^2 = c^2`$.
 
 ### Reference Paper
 ![reference preview](https://user-images.githubusercontent.com/90493072/149515820-b0e2ac1f-b299-4b6f-8f97-a7e16529629e.jpg)
