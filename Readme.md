@@ -1,5 +1,5 @@
 ### This is my Ph.D. mini project by using deep multilayer perceptron(DMLP). The project will be starting from stocks on SET50.
-$\x_{i}^{n}$
+![formula](https://render.githubusercontent.com/render/math?math=\large\f(x)=sin(x))
 
 ### Reference Paper
 ![reference preview](https://user-images.githubusercontent.com/90493072/149515820-b0e2ac1f-b299-4b6f-8f97-a7e16529629e.jpg)
