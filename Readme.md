@@ -2,8 +2,29 @@
 
 ![formula](https://render.githubusercontent.com/render/math?math=\large\f(x)=sin(x)  )
 
+<math>
+	H(s) = ∫<sub>0</sub><sup>∞</sup> e<sup>-st</sup> h(t) dt
+</math>
 
-Display math:
+and
+
+<math>
+	C <box>dV<sub>out</sub><over>dt</box> = I<sub>b</sub> &tanh;(<box>κ(V<sub>in</sub>-V<sub>out</sub>)<over>2</box>)
+</math>
+  
+  and
+  
+  <math>
+	(<array align="c"> <item>
+		&ldet;<array align="cc">
+			<item>x<sub>11</sub>
+			<item>x<sub>12</sub>
+			<item>x<sub>21</sub>			
+			<item>x<sub>22</sub>
+		</array><rd>&rdet;
+		<item> y <item> z
+	</array>)
+</math>Display math:
 
 ```math
 e^{i\pi} + 1 = 0
