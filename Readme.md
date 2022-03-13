@@ -1,44 +1,4 @@
-### This is my Ph.D. mini project by using deep multilayer perceptron(DMLP). The project will be starting from stocks on SET50.
-
-![formula](https://render.githubusercontent.com/render/math?math=\large\f(x)=sin(x)  )
-
-<math>
-	H(s) = ∫<sub>0</sub><sup>∞</sup> e<sup>-st</sup> h(t) dt
-</math>
-
-and
-
-<math>
-	C <box>dV<sub>out</sub><over>dt</box> = I<sub>b</sub> &tanh;(<box>κ(V<sub>in</sub>-V<sub>out</sub>)<over>2</box>)
-</math>
-  
-  and
-  
-  <math>
-	(<array align="c"> <item>
-		&ldet;<array align="cc">
-			<item>x<sub>11</sub>
-			<item>x<sub>12</sub>
-			<item>x<sub>21</sub>			
-			<item>x<sub>22</sub>
-		</array><rd>&rdet;
-		<item> y <item> z
-	</array>)
-</math>Display math:
-
-```math
-e^{i\pi} + 1 = 0
-```
-Inline
-$`a^2 + b^2 = c^2`$.
-
-Display math:
-
-```math
-e^{i\pi} + 1 = 0
-```
-
-and line math $`a^2 + b^2 = c^2`$.
+### This is my mini ANN, DMLP algorithm for building AI project by using python from scratch. The project will be starting from stocks on SET50 and also apply to others type of neural network.
 
 ### Reference Paper
 ![reference preview](https://user-images.githubusercontent.com/90493072/149515820-b0e2ac1f-b299-4b6f-8f97-a7e16529629e.jpg)
@@ -62,7 +22,7 @@ and line math $`a^2 + b^2 = c^2`$.
 
 ![MLP](https://user-images.githubusercontent.com/90493072/149554628-5033a6f9-28fc-4ec5-9070-62ed56350182.jpg)
 
-## Gradien Descent Equation
+## From basic ANN structure we can written Gradien Descent Equation
 ![IMG_1075](https://user-images.githubusercontent.com/90493072/149503312-ff387680-d002-486c-b198-2ac58d640c73.jpg)
 
 ![IMG_1078](https://user-images.githubusercontent.com/90493072/149504684-dd3ed0ef-e6d5-44a6-b086-c262a5fd692f.jpg)
@@ -135,9 +95,10 @@ and line math $`a^2 + b^2 = c^2`$.
 
 ![IMG_1105](https://user-images.githubusercontent.com/90493072/149510471-6215d4d6-8b1f-4033-b345-cfaa77b2d455.jpg)
 
-
+## Now basics algorithm for building NN can be written as 
 ![IMG_1106](https://user-images.githubusercontent.com/90493072/149510625-c27ae256-4fdb-4a4e-b561-c94cb3916455.jpg)
 
+## where recurrent variables
 
 ![IMG_1107](https://user-images.githubusercontent.com/90493072/149510934-25db5007-61f8-4189-85e1-aefcbc5da1fa.jpg)
 
